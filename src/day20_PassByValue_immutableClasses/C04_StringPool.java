@@ -1,4 +1,4 @@
-package DAY20_PassByValue_immutableClasses;
+package day20_PassByValue_immutableClasses;
 
 public class C04_StringPool {
 

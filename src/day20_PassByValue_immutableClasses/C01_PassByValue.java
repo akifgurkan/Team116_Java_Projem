@@ -1,4 +1,4 @@
-package DAY20_PassByValue_immutableClasses;
+package day20_PassByValue_immutableClasses;
 
 public class C01_PassByValue {
     public static void main(String[] args) {
