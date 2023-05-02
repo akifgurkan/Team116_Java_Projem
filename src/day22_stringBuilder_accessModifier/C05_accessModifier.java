@@ -1,7 +1,7 @@
 package day22_stringBuilder_accessModifier;
 
 public class C05_accessModifier {
-    public C05_accessModifier() {
+    public C05_accessModifier() { // publi ya da protected yazarsa diğre clastan erişebiliriz yoksa erişemeyiz
     }
 
     private String privateStr;

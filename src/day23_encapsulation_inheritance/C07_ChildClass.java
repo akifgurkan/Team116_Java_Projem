@@ -1,6 +1,6 @@
 package day23_encapsulation_inheritance;
 
-public class C07_ChildClass extends C06_Parent{
+public class C07_ChildClass extends C06_Parent{ //C07.. clası ==> C06.. nın childidir-
 
     public static void main(String[] args) {
         C04_EncapsuleClass objBaskaClass= new C04_EncapsuleClass();
