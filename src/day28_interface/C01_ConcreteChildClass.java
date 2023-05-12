@@ -1,6 +1,6 @@
 package day28_interface;
 
-import day27_.C07_AbstractP;
+import day27_pollymorphism_abstractClasses.C07_AbstractP;
 
 public class C01_ConcreteChildClass extends C07_AbstractP {
  /*

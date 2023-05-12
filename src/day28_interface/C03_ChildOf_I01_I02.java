@@ -1,6 +1,6 @@
 package day28_interface;
 
-import day27_.C04_Toyota;
+import day27_pollymorphism_abstractClasses.C04_Toyota;
 
 public class C03_ChildOf_I01_I02 extends C04_Toyota implements I01_Interface,I02_Interface{
     /*

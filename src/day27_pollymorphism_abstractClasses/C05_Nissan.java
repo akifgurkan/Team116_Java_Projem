@@ -1,4 +1,4 @@
-package day27_;
+package day27_pollymorphism_abstractClasses;
 
 public class C05_Nissan extends C03_Araba {
 // Abstract class lar yokken claslarımıza özel bir isim vermiyorduk
